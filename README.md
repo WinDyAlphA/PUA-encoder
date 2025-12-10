@@ -76,10 +76,10 @@ The content will be invisible even here.
 
 Then you could commit this to a GitHub project, stay stealthy by making good commits, and one day slip in this line of code. No one will understand what's happening, and they might even think you're a genius and approve the commit. **(I AM JOKING, DO NOT DO THIS!!)**
 
-The file `randomrepo.js` is vibe-coded just to mimic a random repo, with a line of "optimization" that will be executed — and boom, full access to the system that runs it.
+The file `randomrepo.js` is vibe-coded just to mimic a random repo, with a line of "optimization" that will be executed, and boom, full access to the system that runs it.
 
 ## Have fun, that's the most important part!
 
-I had a lot of fun working on this (even if it's completely useless). I had some basic knowledge about PUA and codepoints, but I'd never actually used them before, so this was a nice little experiment. No idea why I never thought of using PUA to hide payloads before — it's such a cool trick.
+I had a lot of fun working on this (even if it's completely useless). I had some basic knowledge about PUA and codepoints, but I'd never actually used them before, so this was a nice little experiment. No idea why I never thought of using PUA to hide payloads before, it's such a cool trick.
 
 Have fun!
